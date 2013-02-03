@@ -1,0 +1,4 @@
+name: RandomColour
+main: net.robinjam.bukkit.randomcolour.RandomColour
+version: ${project.version}
+author: robinjam
